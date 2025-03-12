@@ -1,0 +1,82 @@
+[
+  {
+    "stop_id": "3212",
+    "stop_name": "Baskerville St at Sandgate North, stop 39",
+    "latitude": " -27.312890",
+    "longitude": " 153.058553",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/003212/gtfs/"
+  },
+  {
+    "stop_id": "10239",
+    "stop_name": "Old Northern Rd at Hamilton Road",
+    "latitude": " -27.379129",
+    "longitude": " 152.981012",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/010239/gtfs/"
+  },
+  {
+    "stop_id": "31005",
+    "stop_name": "Dunne St at Easter St, stop 1",
+    "latitude": " -27.306489",
+    "longitude": " 153.053909",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/031005/gtfs/"
+  },
+  {
+    "stop_id": "19076",
+    "stop_name": "Fairfield Rd at Ovendean Street, stop 21",
+    "latitude": " -27.515053",
+    "longitude": " 153.018420",
+    "zone_id": "1",
+    "stop_url": "https://translink.com.au/stop/019076/gtfs/"
+  },
+  {
+    "stop_id": "10029",
+    "stop_name": "Handford Rd at Handford - Roghan",
+    "latitude": " -27.341952",
+    "longitude": " 153.041359",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/010029/gtfs/"
+  },
+  {
+    "stop_id": "1398",
+    "stop_name": "Stuartholme Rd at Stuartholme College, stop 32",
+    "latitude": " -27.470656",
+    "longitude": " 152.975302",
+    "zone_id": "1",
+    "stop_url": "https://translink.com.au/stop/001398/gtfs/"
+  },
+  {
+    "stop_id": "300310",
+    "stop_name": "Olsen Ave at Blanford Street",
+    "latitude": " -27.938132",
+    "longitude": " 153.387956",
+    "zone_id": "5",
+    "stop_url": "https://translink.com.au/stop/300310/gtfs/"
+  },
+  {
+    "stop_id": "11171",
+    "stop_name": "Bayview Tce at Armagh St",
+    "latitude": " -27.418907",
+    "longitude": " 153.050718",
+    "zone_id": "1",
+    "stop_url": "https://translink.com.au/stop/011171/gtfs/"
+  },
+  {
+    "stop_id": "11274",
+    "stop_name": "Trinity Way at Westcott St",
+    "latitude": " -27.653188",
+    "longitude": " 153.049754",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/011274/gtfs/"
+  },
+  {
+    "stop_id": "11235",
+    "stop_name": "Nudgee Rd at Armada Pl",
+    "latitude": " -27.384242",
+    "longitude": " 153.089499",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/011235/gtfs/"
+  }
+]

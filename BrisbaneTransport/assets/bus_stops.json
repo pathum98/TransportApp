@@ -1,0 +1,93 @@
+[
+  {
+    "stop_id": "10058",
+    "stop_name": "Gympie Rd at Aspley South, stop 41",
+    "latitude": " -27.369999",
+    "longitude": " 153.018788",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/010058/gtfs/",
+    "routes": "Route 340, Route 358, Route 680"
+
+  },
+  {
+    "stop_id": "311482",
+    "stop_name": "Ivanhoe Dr near King Arthur Bvd",
+    "latitude": " -27.697492",
+    "longitude": " 153.158962",
+    "zone_id": "3",
+    "stop_url": "https://translink.com.au/stop/311482/gtfs/",
+    "routes": "Route 562"
+  },
+  {
+    "stop_id": "13080",
+    "stop_name": "Nardie St at Goorari St",
+    "latitude": " -27.568431",
+    "longitude": " 153.098784",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/013080/gtfs/",
+    "routes": "Route 161, Route 897"
+  },
+  {
+    "stop_id": "311193",
+    "stop_name": "Main Rd at Apsley Street",
+    "latitude": " -27.487945",
+    "longitude": " 153.239154",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/311193/gtfs/",
+    "routes": "Route 255, Route 5031, Route 5034, Route 5035, Route 5089"
+  },
+  {
+    "stop_id": "10750",
+    "stop_name": "Rocks Riverside Park, stop 75",
+    "latitude": " -27.541470",
+    "longitude": " 152.955882",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/010750/gtfs/",
+    "routes": "Route 467, Route S776"
+  },
+  {
+    "stop_id": "10311",
+    "stop_name": "Dawson Pde at Grovely station",
+    "latitude": " -27.404816",
+    "longitude": " 152.961800",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/010311/gtfs/",
+    "routes": "Route 398"
+  },
+  {
+    "stop_id": "310254",
+    "stop_name": "Browns Plains Rd at Campden Street",
+    "latitude": " -27.665236",
+    "longitude": " 153.064626",
+    "zone_id": "3",
+    "stop_url": "https://translink.com.au/stop/310254/gtfs/",
+    "routes": "Route 545, Route 550, Route 6035, Route 6118, Route 6133, Route 6165, Route 6167"
+  },
+  {
+    "stop_id": "10007",
+    "stop_name": "Ridge St at St Vincents, stop 19",
+    "latitude": " -27.385924",
+    "longitude": " 153.062459",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/010007/gtfs/",
+    "routes": "Route 306"
+  },
+  {
+    "stop_id": "10037",
+    "stop_name": "Avondale Rd at Avondale - Glen Ross, stop 61",
+    "latitude": " -27.547352",
+    "longitude": " 152.943421",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/010037/gtfs/",
+    "routes": "Route 103"
+  },
+  {
+    "stop_id": "311129",
+    "stop_name": "Logan Rd at Celia Street",
+    "latitude": " -27.603785",
+    "longitude": " 153.110212",
+    "zone_id": "2",
+    "stop_url": "https://translink.com.au/stop/311129/gtfs/",
+    "routes": "Route 545, Route 6165, Route 8016"
+  }
+]
